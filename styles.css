@@ -19,3 +19,4 @@ button{cursor:pointer;background:var(--accent);color:#fff;border:none}
 .small{font-size:13px;color:#666}
 .top-right{display:flex;gap:8px;align-items:center}
 .badge{background:#ffc107;padding:6px;border-radius:6px;color:#000;font-weight:600}
+.table-wrap{max-height:420px;overflow:auto;background:#fff;padding:10px;border-radius:6px}
